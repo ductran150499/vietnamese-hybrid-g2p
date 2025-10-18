@@ -1,0 +1,23 @@
+[
+  {"word": "ra", "region": "north", "phoneme": "za"},
+  {"word": "ra", "region": "central", "phoneme": "ʐa"},
+  {"word": "ra", "region": "south", "phoneme": "ra"},
+  {"word": "rồi", "region": "north", "phoneme": "zɔj"},
+  {"word": "rồi", "region": "central", "phoneme": "ʐɔj"},
+  {"word": "rồi", "region": "south", "phoneme": "rɔj"},
+  {"word": "giường", "region": "north", "phoneme": "zɨəŋ"},
+  {"word": "giường", "region": "central", "phoneme": "ʑɨəŋ"},
+  {"word": "giường", "region": "south", "phoneme": "jɨəŋ"},
+  {"word": "dưa", "region": "north", "phoneme": "zɨə"},
+  {"word": "dưa", "region": "central", "phoneme": "jɨə"},
+  {"word": "dưa", "region": "south", "phoneme": "jɨə"},
+  {"word": "rừng", "region": "north", "phoneme": "zɨŋ"},
+  {"word": "rừng", "region": "central", "phoneme": "ʐɨŋ"},
+  {"word": "rừng", "region": "south", "phoneme": "rɨŋ"},
+  {"word": "giọng", "region": "north", "phoneme": "zɔŋ"},
+  {"word": "giọng", "region": "central", "phoneme": "ʑɔŋ"},
+  {"word": "giọng", "region": "south", "phoneme": "jɔŋ"},
+  {"word": "trời", "region": "north", "phoneme": "cɔj"},
+  {"word": "trời", "region": "central", "phoneme": "ʈɔj"},
+  {"word": "trời", "region": "south", "phoneme": "tɕɔj"}
+]

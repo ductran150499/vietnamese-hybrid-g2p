@@ -1,0 +1,62 @@
+{
+  "Northern": {
+    "description": "Standardized accent used in Hanoi. Distinguishes between 'r', 'd', and 'gi'. Keeps clear tone marks.",
+    "rules": {
+      "r": "ɹ",
+      "d": "z",
+      "gi": "z",
+      "tr": "tʂ",
+      "ch": "c",
+      "s": "ʂ",
+      "x": "s",
+      "v": "v",
+      "tone_conversion": {
+        "sắc": "˦˥",
+        "huyền": "˨˩",
+        "hỏi": "˧˩˧",
+        "ngã": "˧˥˧",
+        "nặng": "˨˩ʔ"
+      }
+    }
+  },
+  "Central": {
+    "description": "Hue and central provinces. 'r', 'd', 'gi' often pronounced the same. Tone contour is flatter.",
+    "rules": {
+      "r": "ʐ",
+      "d": "ʐ",
+      "gi": "ʐ",
+      "tr": "ʈ",
+      "ch": "tɕ",
+      "s": "s",
+      "x": "s",
+      "v": "β",
+      "tone_conversion": {
+        "sắc": "˦˦",
+        "huyền": "˩˩",
+        "hỏi": "˧˧˩",
+        "ngã": "˧˩˧",
+        "nặng": "˩ʔ"
+      }
+    }
+  },
+  "Southern": {
+    "description": "Ho Chi Minh City accent. 'r', 'd', 'gi' all merge into /j/. Tones are softer, shorter.",
+    "rules": {
+      "r": "j",
+      "d": "j",
+      "gi": "j",
+      "tr": "tɕ",
+      "ch": "tɕ",
+      "s": "s",
+      "x": "s",
+      "v": "v",
+      "tone_conversion": {
+        "sắc": "˦˥",
+        "huyền": "˨˩",
+        "hỏi": "˨˩˧",
+        "ngã": "˧˥",
+        "nặng": "˨ʔ"
+      }
+    }
+  }
+}

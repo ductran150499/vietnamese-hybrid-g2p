@@ -1,0 +1,116 @@
+{
+  "data": [
+    {
+      "word": "rồi",
+      "northern": {
+        "phoneme": "ɹo͡ɪ",
+        "example": "Tôi ăn rồi"
+      },
+      "central": {
+        "phoneme": "ʐɔj",
+        "example": "Tui ăn rồi"
+      },
+      "southern": {
+        "phoneme": "jɔj",
+        "example": "Tui ăn rồi"
+      },
+      "note": "‘r’ merges with ‘d/gi’ in Southern and Central accents."
+    },
+    {
+      "word": "dê",
+      "northern": {
+        "phoneme": "ze",
+        "example": "Con dê ăn cỏ"
+      },
+      "central": {
+        "phoneme": "ʐe",
+        "example": "Con dê ăn cỏ"
+      },
+      "southern": {
+        "phoneme": "je",
+        "example": "Con dê ăn cỏ"
+      },
+      "note": "‘d’, ‘gi’, and ‘r’ all pronounced differently across regions."
+    },
+    {
+      "word": "vui",
+      "northern": {
+        "phoneme": "vuj",
+        "example": "Tôi rất vui"
+      },
+      "central": {
+        "phoneme": "βuj",
+        "example": "Tui rất vui"
+      },
+      "southern": {
+        "phoneme": "vuj",
+        "example": "Tui rất vui"
+      },
+      "note": "‘v’ → /β/ in Central region."
+    },
+    {
+      "word": "trà",
+      "northern": {
+        "phoneme": "tʂa",
+        "example": "Uống trà sáng"
+      },
+      "central": {
+        "phoneme": "ʈa",
+        "example": "Uống trà sáng"
+      },
+      "southern": {
+        "phoneme": "tɕa",
+        "example": "Uống trà sáng"
+      },
+      "note": "‘tr’ has three phonetic forms depending on region."
+    },
+    {
+      "word": "sáng",
+      "northern": {
+        "phoneme": "ʂaːŋ˦˥",
+        "example": "Buổi sáng đẹp trời"
+      },
+      "central": {
+        "phoneme": "saːŋ˦˦",
+        "example": "Buổi sáng đẹp trời"
+      },
+      "southern": {
+        "phoneme": "saːŋ˦˥",
+        "example": "Buổi sáng đẹp trời"
+      },
+      "note": "‘s’ and tone contours vary slightly by region."
+    },
+    {
+      "word": "chạy",
+      "northern": {
+        "phoneme": "caj˧˩˧",
+        "example": "Tôi chạy bộ"
+      },
+      "central": {
+        "phoneme": "tɕaj˧˧˩",
+        "example": "Tui chạy bộ"
+      },
+      "southern": {
+        "phoneme": "tɕaj˨˩˧",
+        "example": "Tui chạy bộ"
+      },
+      "note": "Tones differ between Northern and Southern varieties."
+    },
+    {
+      "word": "ghê",
+      "northern": {
+        "phoneme": "ɣe",
+        "example": "Anh ấy ghê thật"
+      },
+      "central": {
+        "phoneme": "ɣeː",
+        "example": "Hắn ghê quá"
+      },
+      "southern": {
+        "phoneme": "ɣe",
+        "example": "Ảnh ghê ghê"
+      },
+      "note": "Same spelling, but prosody and vowel length differ."
+    }
+  ]
+}
